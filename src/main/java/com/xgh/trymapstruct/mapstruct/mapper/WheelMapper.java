@@ -1,4 +1,4 @@
-package com.xgh.trymapstruct.mapstruct;
+package com.xgh.trymapstruct.mapstruct.mapper;
 
 import com.xgh.trymapstruct.mapstruct.pojo.Wheel;
 import org.mapstruct.Mapper;

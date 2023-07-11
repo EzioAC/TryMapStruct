@@ -15,6 +15,8 @@ public class CarDto {
     private int seatCount;
     private String type;
     private List<Wheel> Wheels;
+    private String createDate;
+    private String updateDate;
 
     //constructor, getters, setters etc.
 }
