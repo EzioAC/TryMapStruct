@@ -127,4 +127,9 @@ class TryMapStructApplicationTests {
         System.out.println(JSON.toJSONString(carDto));
     }
 
+    @Test
+    void testCustomizeConvert() {
+
+    }
+
 }
